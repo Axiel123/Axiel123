@@ -29,8 +29,6 @@ Además del modelado, en la carrera trabajé en:
 * 🧊 **Modelado y texturizado 3D**
 * 🎮 **Programación de gameplay en Unity**
 * 🎧 **Producción de audio**
-* 📊 **Análisis de negocio de videojuegos**
-* ⚖️ **Propiedad intelectual aplicada a videojuegos**
 
 Aprendo practicando: mi forma de trabajar es probar, equivocarme y repetir hasta que el flujo de trabajo me sale natural.
 
@@ -107,6 +105,6 @@ Trabajar como modelador 3D en proyectos de videojuegos, y seguir creciendo en ri
 
 ### 📫 Contacto
 
-TU_CORREO_AQUÍ
+axielestudiantemadrid@gmail.com
 
 </div>
