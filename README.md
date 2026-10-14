@@ -1,717 +1,112 @@
- 
+<div align="center">
 
-<div align="center"> 
+# 🎮 AXIEL
 
- 
+### 3D ARTIST · GAME DEVELOPER EN FORMACIÓN
 
-<h1>🎮 MATÍAS LÓPEZ</h1> 
+**Blender · Unity · Unreal Engine · Krita**
 
- 
+Estudiante de Desarrollo de Videojuegos en Córdoba, Argentina. Me especializo en modelado 3D y arte para videojuegos, y sigo sumando programación y diseño de juegos.
 
-<h3>GAME DEVELOPER</h3> 
+<br>
 
- 
+![Blender](https://img.shields.io/badge/BLENDER-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Krita](https://img.shields.io/badge/KRITA-3BABFF?style=flat-square&logo=krita&logoColor=white)
+![Reaper](https://img.shields.io/badge/REAPER-333333?style=flat-square)
 
-<p><strong>Unity · Unreal Engine · C# · Blueprints</strong></p> 
+</div>
 
- 
+---
 
-<p>Desarrollador de videojuegos en formación, enfocado en crear experiencias interactivas mediante programación, diseño y arte digital.</p> 
+# 👨‍💻 Sobre mí
 
- 
+Estudio Desarrollo de Videojuegos y me gradúo en diciembre de 2026. Tengo cerca de **2 años de experiencia en Blender**, que aprendí por mi cuenta antes de entrar a la carrera, y mi objetivo es trabajar como **modelador 3D**.
 
-<br> 
+Además del modelado, en la carrera trabajé en:
 
- 
+* 🧊 **Modelado y texturizado 3D**
+* 🎮 **Programación de gameplay en Unity**
+* 🎧 **Producción de audio**
+* 📊 **Análisis de negocio de videojuegos**
+* ⚖️ **Propiedad intelectual aplicada a videojuegos**
 
-<a href="https://github.com/matiaslopez206"> 
+Aprendo practicando: mi forma de trabajar es probar, equivocarme y repetir hasta que el flujo de trabajo me sale natural.
 
-<img src="https://img.shields.io/badge/GitHub-MatiasLopez206-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+---
 
-</a> 
+# 🛠️ Herramientas
 
- 
+* **Modelado 3D:** Blender (flujo de trabajo con referencias de frente y perfil)
+* **Motores:** Unity (URP) y Unreal Engine 4
+* **Arte 2D:** Krita
+* **Audio:** Reaper
+* **Animaciones 3D:** Mixamo
+* **Control de versiones:** Git / GitHub
 
-<br><br> 
+---
 
- 
+# 🎮 Proyectos
 
-<img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"> 
+## 🐮 Milkadium
 
-<img src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"> 
+**Plataformas 2D · Pixel Art · Diseño de juego**
 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"> 
+Concepto de un plataformas 2D en pixel art con una vaca como protagonista.
 
-<img src="https://img.shields.io/badge/BLENDER-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"> 
+* Diseño del juego y del personaje.
+* Análisis de negocio: costos directos, escenarios de precio y punto de equilibrio.
 
-<img src="https://img.shields.io/badge/ASEPRITE-7D929E?style=flat-square" alt="Aseprite"> 
+---
 
-<img src="https://img.shields.io/badge/KRITA-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita"> 
+## 🧍 Controlador en tercera persona
 
- 
+**Unity 2022.3 · URP · C#**
 
-<br><br> 
+Controlador de personaje propio en tercera persona, hecho para la universidad.
 
- 
+* Caminar, correr, saltar y atacar.
+* Cámara orbital controlada con el mouse.
+* Personaje y animaciones de Mixamo, con un Animator de varios estados.
 
-<h3>📫 Contacto</h3> 
+---
 
- 
+## 🤖 Paisaje sonoro: robot retro
 
-<a href="mailto:matiariellopez85@gmail.com"> 
+**Reaper · Audio · Diseño sonoro**
 
-<img src="https://img.shields.io/badge/EMAIL-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+Ambiente sonoro de 10 pistas en capas para un personaje de robot retro que modelé previamente en 3D.
 
-</a> 
+---
 
-<a href="https://www.linkedin.com/in/matias-lopez-119517402/"> 
+## 🐸 Sapo_Gaucho y Gauchos Inmortales
 
-<img src="https://img.shields.io/badge/LINKEDIN-Mi%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+**Blender · Modelado 3D**
 
-</a> 
+* Serie de modelos de sapos para un trabajo de Blender, con escala y proporciones revisadas y aprobadas por el profesor.
+* Colaboro creando modelos 3D para *Gauchos Inmortales*, un videojuego de un profesor de la carrera.
 
-<a href="https://itch.io/profile/matiariellopez"> 
+---
 
-<img src="https://img.shields.io/badge/ITCH.IO-Mis%20juegos-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"> 
+# 📚 Aprendiendo ahora
 
-</a> 
+* Programación de gameplay en Unity.
+* Rigging y animación 2D en Live2D.
+* Nuevas técnicas de modelado y texturizado en Blender.
 
- 
+---
 
-</div> 
+# 🎯 Objetivo
 
- 
+Trabajar como modelador 3D en proyectos de videojuegos, y seguir creciendo en rigging, animación y programación.
 
---- 
+---
 
- 
+<div align="center">
 
- 
+### 📫 Contacto
 
-</div> 
+TU_CORREO_AQUÍ
 
- 
-
- 
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) 
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white) 
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white) 
-
- 
-
-</div> 
-
- 
-
-<div align="center"> 
-
- 
-
-<table> 
-
-<tr> 
-
- 
-
-</tr> 
-
-</table> 
-
- 
-
-</div> 
-
---- 
-
- 
-
-# 👨‍💻 Sobre mí 
-
- 
-
-Soy desarrollador de videojuegos en formación y trabajo en proyectos de diferentes géneros y escalas, desde prototipos y Game Jams hasta proyectos propios actualmente en desarrollo. 
-
- 
-
-A lo largo de mis proyectos he desempeñado diferentes roles: 
-
- 
-
-* 💻 **Programación** 
-
-* ⚙️ **Implementación de sistemas** 
-
-* 🎮 **Desarrollo de gameplay** 
-
-* 🎨 **Arte 2D** 
-
-* 🧊 **Modelado y arte 3D** 
-
-* 🧠 **Diseño de videojuegos** 
-
-* 🗺️ **Diseño y prototipado de niveles** 
-
-* 🤖 **Desarrollo de IA** 
-
-* 🎬 **Animación e implementación de animaciones** 
-
- 
-
-Mi objetivo es continuar desarrollando mis habilidades y crear videojuegos cada vez más completos, combinando el aspecto **técnico y creativo** del desarrollo. 
-
- 
-
---- 
-
- 
-
-# 🛠️ Tecnologías y herramientas 
-
- 
-
-### 🎮 Motores 
-
- 
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white) 
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square\&logo=unrealengine\&logoColor=white) 
-
- 
-
-### 💻 Programación 
-
- 
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white) 
-
-![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=flat-square\&logo=unrealengine\&logoColor=white) 
-
- 
-
-* C# 
-
-* Blueprints 
-
-* Programación de gameplay 
-
-* Sistemas de interacción 
-
-* IA básica 
-
-* Sistemas de combate 
-
-* Sistemas de diálogo 
-
-* Gestión de estados y eventos 
-
- 
-
-### 🎨 Arte y diseño 
-
- 
-
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square\&logo=krita\&logoColor=white) 
-
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square\&logo=aseprite\&logoColor=white) 
-
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square\&logo=blender\&logoColor=white) 
-
- 
-
-* Arte 2D 
-
-* Pixel Art 
-
-* Modelado 3D 
-
-* Animación 2D 
-
-* Creación de recursos para videojuegos 
-
-* Diseño de escenarios y elementos visuales 
-
- 
-
-### ⚙️ Herramientas y tecnologías 
-
- 
-
-* Git / GitHub 
-
-* Visual Studio 
-
-* Unity Input System 
-
-* Cinemachine 
-
-* Animation Rigging 
-
-* Universal Render Pipeline (URP) 
-
-* Krita 
-
-* Aseprite 
-
-* Blender 
-
- 
-
---- 
-
- 
-
-# 🎮 Proyectos 
-
- 
-
-## ⭐ Proyectos destacados 
-
- 
-
-### 🪞 Destiny in the Mirror 
-
- 
-
-**Novela visual • Fantasía • Misterio • Narrativa ramificada** 
-
- 
-
-**Motor:** Unity 
-
-**Lenguaje:** C# 
-
-**Arte:** Krita 
-
-**Rol:** Desarrollador de videojuegos • Programador • Artista 2D • Diseñador 
-
-**Estado:** 🚧 En desarrollo 
-
-<img width="1075" height="622" alt="Captura de pantalla 2025-06-25 193453" src="https://github.com/user-attachments/assets/af76e7ec-d730-4367-9b5a-8698fffdf2a2" /> 
-
-<img width="1367" height="635" alt="Captura de pantalla 2025-06-18 195616" src="https://github.com/user-attachments/assets/9a2cf047-e269-4652-9bb0-637523687057" /> 
-
-<img width="1080" height="629" alt="Captura de pantalla 2025-06-25 201929" src="https://github.com/user-attachments/assets/0b6512b0-38ff-4075-9597-d6cffc245e21" /> 
-
- 
-
- 
-
-Novela visual centrada en **Félix**, un joven que debe viajar entre el mundo real y el mundo de fantasía **Elarion** para restablecer el equilibrio entre ambos mundos y enfrentarse a su antiguo amigo **Lurios**. 
-
- 
-
-### Características principales 
-
- 
-
-* Sistema de diálogos y narrativa ramificada. 
-
-* Elecciones dinámicas con eventos de tiempo limitado. 
-
-* Sistema de afinidad con personajes. 
-
-* Barra de estado mental que afecta al desarrollo de la historia. 
-
-* Gestión de escenas y personajes mediante C#. 
-
-* Arte 2D realizado en Krita. 
-
- 
-
-### Mi participación 
-
- 
-
-* Programación de sistemas y mecánicas. 
-
-* Implementación de diálogos y elecciones. 
-
-* Diseño e implementación de la narrativa. 
-
-* Arte 2D. 
-
-* Diseño general y desarrollo del proyecto. 
-
- 
-
-**Inspiraciones:** *Bleach*, *Your Name* y *Persona*. 
-
- 
-
---- 
-
- 
-
-### 🤖 Other Night At Freddy's 
-
- 
-
-**Survival Horror 2D • Plataformas laterales • Sigilo y exploración** 
-
- 
-
-**Motor:** Unity 
-
-**Rol:** Desarrollador de videojuegos • Programador • Artista 2D • Diseñador 
-
-**Estado:** 🚧 En desarrollo 
-
- 
-
-Fan-game que reinterpreta la fórmula clásica de *Five Nights at Freddy's* en un formato lateral 2D, combinando exploración, sigilo y supervivencia. 
-
- 
-
-### Características principales 
-
- 
-
-* Sistema de cámaras de seguridad en tiempo real. 
-
-* Mecánicas para esconderse en el entorno. 
-
-* Sistema de salud y curación. 
-
-* IA de animatrónicos y sistemas de persecución. 
-
-* Jumpscares y sistema de muerte y reinicio. 
-
-* Diferentes zonas explorables. 
-
-* Sistemas de exploración e interacción con el entorno. 
-
- 
-
-### Mi participación 
-
- 
-
-* Programación. 
-
-* IA enemiga. 
-
-* Sistema de cámaras. 
-
-* Mecánicas de juego. 
-
-* Arte 2D. 
-
-* Diseño e implementación general. 
-
- 
-
-**Nota:** Realicé todas las áreas del desarrollo excepto la música. 
-
- 
-
-**Inspiraciones:** *Five Nights at Freddy's 2*, *FNAF: Into the Pit* y *Katana ZERO*. 
-
- 
-
---- 
-
- 
-
-### ⚔️ Neural Leak 
-
- 
-
-**Acción 3D • Hack and Slash • Cyberpunk** 
-
- 
-
-**Motor:** Unity 
-
-**Tecnologías:** URP • Input System • Cinemachine • Animation Rigging 
-
-**Rol:** Programador • Implementador • Artista 3D 
-
-**Estado:** 🟢 Publicado en itch.io 
-
- 
-
-Prototipo de acción en tercera persona ambientado en un mundo cyberpunk, centrado en el combate dinámico, la movilidad y los enfrentamientos contra jefes. 
-
- 
-
-### Características principales 
-
- 
-
-* Combate cuerpo a cuerpo basado en combos. 
-
-* Sistema de apuntado y disparos. 
-
-* Mecánica de esquive rápido (*dash*). 
-
-* Sistema de salud. 
-
-* IA y comportamiento de jefe. 
-
-* Cámara en tercera persona. 
-
-* Sistemas de animación para combate. 
-
- 
-
-### Mi participación 
-
- 
-
-* Modelado y creación de recursos 3D. 
-
-* Programación de sistemas. 
-
-* Implementación e integración. 
-
-* Desarrollo de mecánicas de combate. 
-
-* Integración de modelos, animaciones y sistemas. 
-
- 
-
---- 
-
- 
-
-# 🧩 Otros proyectos 
-
- 
-
-### ☕ Mytho Café 
-
- 
-
-**Gestión 2D • Narrativa • Exploración** 
-
- 
-
-**Motor:** Unity 
-
-**Rol:** Artista 2D 
-
-**Estado:** 🟢 Beta publicada 
-
- 
-
-Juego de gestión y narrativa ambientado en un café oculto donde criaturas paranormales y críptidos acuden a descansar. 
-
- 
-
-### Mi participación 
-
- 
-
-* Creación de arte 2D. 
-
-* Diseño de recursos visuales. 
-
-* Diseño visual de la cafetería. 
-
-* Implementación de recursos gráficos. 
-
- 
-
---- 
-
- 
-
-### 🕵️ Bajo Piel Ajena 
-
- 
-
-**Game Jam • Sigilo • Infiltración • Narrativa** 
-
- 
-
-**Evento:** Global Game Jam 
-
-**Rol:** Artista 2D • Animador 
-
-**Estado:** 🚧 En progreso 
-
- 
-
-Proyecto desarrollado durante una Game Jam, centrado en conceptos de sigilo, suplantación e identidad. 
-
- 
-
-### Mi participación 
-
- 
-
-* Arte 2D. 
-
-* Recursos visuales. 
-
-* Animaciones 2D. 
-
-* Implementación de recursos gráficos. 
-
-* Desarrollo visual durante el prototipado. 
-
- 
-
---- 
-
- 
-
-### 🔥 Entre Sueños y Cenizas 
-
- 
-
-**Acción y aventura 3D • Exploración • Combate** 
-
- 
-
-**Rol:** Artista 2D • Programador secundario 
-
-**Estado:** 🟢 Beta publicada 
-
- 
-
-Proyecto de acción y aventura 3D enfocado en la exploración, el combate y la construcción de una atmósfera propia. 
-
- 
-
-### Mi participación 
-
- 
-
-* Creación de arte 2D. 
-
-* Programación de apoyo. 
-
-* Implementación de sistemas. 
-
-* Prototipado y pruebas de jugabilidad. 
-
-* Apoyo en el desarrollo general del proyecto. 
-
- 
-
---- 
-
- 
-
-### 🐻 Prototipo Animatrónico 
-
- 
-
-**Terror • Inteligencia Artificial • Interacción con el entorno** 
-
- 
-
-**Motor:** Unreal Engine 4.27 
-
-**Tecnología:** Blueprints 
-
-**Rol:** Desarrollador • Programador • Implementador • Artista 
-
-**Estado:** 🔬 Prototipo 
-
- 
-
-Prototipo técnico orientado a experimentar con sistemas de terror, interacción con el entorno y persecución de enemigos. 
-
- 
-
-### Características principales 
-
- 
-
-* Activación de eventos mediante áreas y triggers. 
-
-* Sistemas de colisiones. 
-
-* IA básica de persecución. 
-
-* Interacción con el entorno. 
-
-* Experimentación con primera y tercera persona. 
-
- 
-
-### Mi participación 
-
- 
-
-* Programación mediante Blueprints. 
-
-* Implementación de sistemas de juego. 
-
-* Desarrollo de interacciones con el entorno. 
-
-* Desarrollo de IA y comportamiento enemigo. 
-
-* Prototipado de niveles y mecánicas. 
-
-* Creación e implementación de recursos visuales. 
-
- 
-
---- 
-
- 
-
-# 📚 Actualmente aprendiendo 
-
- 
-
-* Desarrollo avanzado de gameplay en Unity. 
-
-* Arquitectura y organización de proyectos. 
-
-* Inteligencia artificial para videojuegos. 
-
-* Sistemas de combate. 
-
-* Diseño de niveles. 
-
-* Optimización de proyectos. 
-
-* Desarrollo con Unreal Engine. 
-
-* Modelado y creación de recursos 3D. 
-
-* Nuevas técnicas de arte y animación para videojuegos. 
-
- 
-
---- 
-
- 
-
-# 🎯 Objetivo 
-
- 
-
-Continuar creciendo como desarrollador de videojuegos y participar en proyectos donde pueda combinar **programación, diseño, implementación y arte**, adquiriendo experiencia en diferentes áreas del desarrollo. 
-
- 
-
-Busco seguir construyendo proyectos que me permitan aprender, experimentar y mejorar tanto mis habilidades técnicas como creativas. 
-
- 
-
---- 
-
- 
-
-<div align="center"> 
-
- 
-
-### 🎮 Creando, experimentando y aprendiendo un juego a la vez. 
-
- 
-
-</div> 
-
- 
-
- 
+</div>
